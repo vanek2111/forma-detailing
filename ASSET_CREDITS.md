@@ -13,3 +13,8 @@ The Pexels and Unsplash licenses permit use in this project. Their photographers
 
 ## Motion background
 `assets/polishing-film.mp4`: Pavel Danilyuk / Pexels, https://www.pexels.com/video/polishing-a-car-6161632/ — Pexels License https://www.pexels.com/license/. Trimmed to 12 seconds, muted, resized for web. Decorative stock footage; not presented as studio project documentation.
+
+## 3D configurator
+
+Family Sedan by tevy.dev, CC0 1.0. https://tevy.dev/models/family-sedan — pinned v1/lod0.glb. Runtime surface maps replaced by paint/glass materials. Geometry and embedded metadata preserved. The model is an unbranded concept sedan.
+Three.js r170 and meshoptimizer decoder: MIT, notices in vendor.

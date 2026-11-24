@@ -49,3 +49,7 @@ npm start
 Добавлены detailing-motion.css и detailing-motion.js: декоративный блик и усиление глянца по скроллу, короткое видео полировки с паузой и остановкой вне экрана, появление крупных планов услуг. При reduced motion и экономии трафика видео не загружается автоматически. Блок сравнения до/после сохранён. Видео — лицензированный сток, источник в ASSET_CREDITS.md. Локальный визуальный предпросмотр: python3 -m http.server 4190 --bind 127.0.0.1.
 
 Сохранены исходная типографика и четыре этапа работы. Подписи этапов и материалов упрощены в forma-labels.css.
+
+## 3D studio
+
+The homepage embeds configurator.html on approach to the section. Local Three.js r170 and meshopt decoder. Family Sedan by tevy.dev, CC0; assets/3d/SEDAN_CREDITS.md. Whole-body paint, gloss/satin, visual tint, split polish comparison, selection download and prefill of the original booking form. The visitor must review and submit the form themselves. No fake success, pricing or real-vehicle assumptions.
